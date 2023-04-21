@@ -1,6 +1,8 @@
 ### Olá Eu sou o Willian Guimaraes 👋
 
-### Cursando Técnico em Desenvolvimento SENAI🌐
+### Técnico em Desenvolvimento - SENAI🌐
+
+### Cursando Sistema da Informação - FEPI🌐
 <br>
 <br>
 
