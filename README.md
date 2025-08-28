@@ -37,7 +37,7 @@ Sou um desenvolvedor e estudante de <strong>Sistemas de Informação</strong>, f
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-silva01&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=willian-silva01&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/willian-silva01"> <img src="https://github-readme-streak-stats.herokuapp.com?user=willian-silva01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> </a>
 </div>
 
 ---
