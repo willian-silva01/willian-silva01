@@ -22,9 +22,6 @@ Sou um desenvolvedor e estudante de <strong>Sistemas de Informação</strong>, f
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,vscode&theme=dark" />
-  </a>
 </p>
 
 ---
