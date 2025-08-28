@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://path.to/your/banner.png" alt="Banner do Perfil de Willian Guimarães"/>
-</p>
+  </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,9 +7,9 @@
   </a>
 </h1>
 
-<p align="center">
-  Sou um desenvolvedor e estudante de <strong>Sistemas de Informação</strong>, focado em construir soluções práticas e eficientes. Com background técnico pelo SENAI, busco constantemente aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software, tanto no backend quanto no mobile.
-</p>
+<div align="center">
+Sou um desenvolvedor e estudante de <strong>Sistemas de Informação</strong>, focado em construir soluções práticas e eficientes. Com background técnico pelo SENAI, busco constantemente aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software, tanto no backend quanto no mobile.
+</div>
 
 ---
 
@@ -24,10 +23,7 @@
     <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,vscode&theme=dark" />
   </a>
 </p>
 
@@ -40,9 +36,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian-silva01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-silva01&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   </a>
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=willian-silva01&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=willian-silva01&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -79,13 +74,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🐍 Contribuições (Snake Grid)
-<div align="center">
-  <img src="https://github.com/willian-silva01/willian-silva01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
 ---
 
