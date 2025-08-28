@@ -25,4 +25,3 @@
 </div><br>
 
 
-Apaixonado por programacão.
